@@ -26,7 +26,7 @@ HR Employee Attrition dataset containing employee demographics, job role, salary
 - Salary hikes reduce attrition probability
 
 ## 🖼 Dashboard Preview
-![Dashboard](images/dashboard_screenshots.png)
+![Dashboard](dashboard_screenshots.png)
 
 ## 🚀 Conclusion
 The project helps HR teams take data-driven decisions to reduce attrition and improve employee retention.
